@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate fullstack developer from Turkey</h3>
 <img align = "right" alt= "Coder" width="400" src="https://scontent.fsaw2-2.fna.fbcdn.net/v/t39.30808-6/278400769_1206021646895737_4993022541418677238_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=WM4TCApVvnkAX8VCldI&_nc_ht=scontent.fsaw2-2.fna&oh=00_AfDs0LLIJ8iTTV6VMs-Ge9qljicRM8dIR1qb_cvi3K-Hbg&oe=6499FEDF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirtaskiran&label=Profile%20views&color=0e75b6&style=flat" alt="alirtaskiran" /> </p>
