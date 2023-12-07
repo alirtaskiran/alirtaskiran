@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/alirtaskiran](github.com/alirtaskiran)
 
-- 📝 I regularly write articles on alirtaskiran.github.io
+- 📝 I regularly write articles on https://alirtaskiran.github.io/
 
 - 📫 How to reach me **alirtaskiran@gmail.com**
 
